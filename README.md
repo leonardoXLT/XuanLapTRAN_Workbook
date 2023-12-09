@@ -2,8 +2,6 @@
 ## Xuan Lap TRAN (CA-15153)
 
 
-# Coder Academy T1A1-Workbook - Willem Gibson
-
 
 ### Q1: **Identify** and **explain** common and important components and concepts of web development markup languages.
 ---
